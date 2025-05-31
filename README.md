@@ -1,5 +1,5 @@
 # MDR Terminal Theme
-Theme inspired by Severance (Works best w/ Onyx default theme)
+Theme inspired by Severance (Works best w/ dark mode)
 
 ## How to Install
 You need a Discord client that can run custom themes
