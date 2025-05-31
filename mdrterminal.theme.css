@@ -9,7 +9,10 @@
 
 @import url('https://10rats.github.io/mdr-terminal-discord/src/base.css');
 
-:root, .visual-refresh .theme-midnight, .visual-refresh.theme-midnight { 
+:root, 
+.visual-refresh .theme-dark, .visual-refresh.theme-dark, 
+.visual-refresh .theme-darker, .visual-refresh.theme-darker, 
+.visual-refresh .theme-midnight, .visual-refresh.theme-midnight { 
   --primary-color: rgb(171, 255, 252);
   --secondary-color: rgb(96, 145, 143);
   --tertiary-color: rgb(58, 88, 88);
