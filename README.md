@@ -1,6 +1,8 @@
 # MDR Terminal Theme
 Theme inspired by Severance (Works best w/ dark mode)
 
+[Preview](https://discord-preview.vercel.app/?file=https://10rats.github.io/mdr-terminal-discord/mdrterminal.theme.css)
+
 ## How to Install
 You need a Discord client that can run custom themes
 
